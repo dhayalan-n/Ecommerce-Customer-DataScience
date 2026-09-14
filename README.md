@@ -65,6 +65,20 @@ Logistic Regression achieved the best performance among the evaluated models.
 - Use the predictive model to identify customers with a higher probability of purchase.
 - Regularly monitor model performance and retrain when new customer data becomes available.
 
+## 📊 Exploratory Data Analysis
+
+### Purchase Frequency vs Annual Spend
+
+![Purchase Frequency vs Annual Spend](images/purchase_frequency_vs_annual_spend.png)
+
+### Cart Abandonment Rate vs Purchase Status
+
+![Cart Abandonment Rate vs Purchase Status](images/cart_abandonment_vs_purchase_status.png)
+
+### Correlation Matrix
+
+![Correlation Matrix](images/correlation_matrix.png)
+
 ## 📁 Project Files
 
 - `Ecommerce_Cust_DS_Project.ipynb` – Complete analysis and machine learning workflow
